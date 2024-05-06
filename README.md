@@ -1,1 +1,2 @@
 # EmailWebScraper
+I built this web scrapper to gather the emails to all teachers in my school. I needed all the emails to send out a survey to all teachers. I used selenium in Python to accomplish this.
